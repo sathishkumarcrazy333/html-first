@@ -1,0 +1,49 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+      <title>RESUM</title>
+ </head>
+ <BODY>
+ <table border= "2"    bgcolor= "gray" cellspacing="10" bordercolor="gray" align="center" width="80%">
+                                                                                                        <tr>
+                                                                                                              <td>
+                                                                                                              <img src="https:// media.istockphoto.com/photos/unnknow-businessboy-si1houtte-picture- id1162525?k=20&m="height="200" width="200" align="left">
+                                                                                                                  <h2><b>k.sathishkumar</b></h2>
+                                                                                                                  <h3>freacr</h3>
+                                                                                                                  <h3>
+                                                                                                                  <font color="green">Email</font></he>
+                                                                                                                  </td>
+
+
+
+
+                                                                                                                  </tr>
+
+                                                                                                                  <tr aligan="center">
+
+
+
+
+
+
+                                                                                                                      <td colspan="2"><font color="white">
+                                                                                                                      
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
